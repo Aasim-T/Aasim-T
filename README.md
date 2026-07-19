@@ -1,118 +1,199 @@
+<h1 align="center">
+Hi 👋, I'm Mohammed Aasim T.A
+</h1>
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h3 align="center">
+AI Engineer • Blockchain Developer • Full Stack Developer
+</h3>
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+<p align="center">
+Building intelligent software with AI, Blockchain, and modern web technologies.
+</p>
+<p align="center">
+  <a href="https://github.com/Aasim-T">
+    <img src="https://img.shields.io/github/followers/Aasim-T?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohammed-aasim-t">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mohammedaasimb.e@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/M-Aasim/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :robot: Building AI-powered applications
+- :chains: Exploring Blockchain & Web3
+- :trophy: Participating in Hackathons
+- :seedling: Learning AI Agents & LLMs
+- :speech_balloon: Ask me about AI, React, Blockchain & Full Stack
+- :mailbox: Reach me via LinkedIn
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="tech">⚡ Tech Arsenal</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Technologies I use to build intelligent, scalable and modern applications.
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
+<br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48"/>
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
+<br>Firebase
+</td>
+
+</tr>
 </table>
+<br>
+<table>
+<tr>
 
-<h2 align="left">Coding Activity</h2>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<br>Python
+</td>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
+<br>TensorFlow
+</td>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48"/>
+<br>OpenCV
+</td>
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" width="48"/>
+<br>Solidity
+</td>
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ethereum" width="48"/>
+<br>Ethereum
+</td>
 
-<!-- links -->
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+<br>Docker
+</td>
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
-=======
-# 👋 Hi, I'm Mohammed Aasim
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<br>Git
+</td>
 
-## 🚀 About Me
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/>
+<br>Linux
+</td>
 
-- 🎓 Computer Science Engineering Student
-- 🤖 AI & Machine Learning Enthusiast
-- ⛓️ Blockchain Developer
-- 🌐 Full Stack Developer
-- 🏆 Hackathon Participant
+</tr>
+</table>
+<h2 align="left">🚀 Featured Projects</h2>
+<br>
+> Projects that reflect my passion for AI, Blockchain, Full Stack Development, and solving real-world problems.
 
-## 💻 Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-Coming Soon...
+### 🛡️ SheProof
+Tamper-proof digital evidence protection system powered by **Blockchain**, **IPFS**, and **SHA-256**.
 
-## 🚀 Featured Projects
+**Tech Stack:** Next.js • React • Polygon • IPFS • MongoDB
 
 
+</td>
+
+<td width="50%">
+
+### 🚆 TravelPass
+An AI-powered smart travel platform that simplifies trip planning, bookings, and personalized recommendations.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • AI
+
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Poneglyph
+Deepfake detection platform leveraging Computer Vision and AI models for media authenticity.
+
+**Tech Stack:** Python • TensorFlow • OpenCV • React
+
+
+</td>
+
+<td width="50%">
+
+### 🧾 BillFlow AI
+Smart GST billing and business management solution designed for modern enterprises.
+
+**Tech Stack:** React • Node.js • Express • MongoDB
+
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🚨 RescueMind
+AI-powered emergency response platform providing intelligent assistance during disaster situations.
+
+**Tech Stack:** AI • GIS • React • Python
+
+
+</td>
+</tr>
+</table>
+<hr>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
