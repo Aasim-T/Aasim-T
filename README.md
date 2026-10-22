@@ -38,7 +38,7 @@ Building intelligent software with AI, Blockchain, and modern web technologies.
 
 <h2 align="left" id="tech">⚡ Tech Arsenal</h2>
 
-> Technologies I use to build intelligent, scalable and modern applications.
+> Technologies I use to build applications.
 
 <table>
 <tr>
@@ -56,11 +56,6 @@ Building intelligent software with AI, Blockchain, and modern web technologies.
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
 <br>TypeScript
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-<br>Tailwind
 </td>
 
 <td align="center" width="96">
@@ -131,7 +126,7 @@ Building intelligent software with AI, Blockchain, and modern web technologies.
 
 </tr>
 </table>
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left"> Featured Projects</h2>
 <br>
 > Projects that reflect my passion for AI, Blockchain, Full Stack Development, and solving real-world problems.
 
@@ -139,7 +134,7 @@ Building intelligent software with AI, Blockchain, and modern web technologies.
 <tr>
 <td width="50%">
 
-### 🛡️ SheProof
+### SheProof
 Tamper-proof digital evidence protection system powered by **Blockchain**, **IPFS**, and **SHA-256**.
 
 **Tech Stack:** Next.js • React • Polygon • IPFS • MongoDB
@@ -149,7 +144,7 @@ Tamper-proof digital evidence protection system powered by **Blockchain**, **IPF
 
 <td width="50%">
 
-### 🚆 TravelPass
+### TravelPass
 An AI-powered smart travel platform that simplifies trip planning, bookings, and personalized recommendations.
 
 **Tech Stack:** React • Node.js • Express • MongoDB • AI
@@ -161,7 +156,7 @@ An AI-powered smart travel platform that simplifies trip planning, bookings, and
 <tr>
 <td width="50%">
 
-### 🤖 Poneglyph
+### Poneglyph
 Deepfake detection platform leveraging Computer Vision and AI models for media authenticity.
 
 **Tech Stack:** Python • TensorFlow • OpenCV • React
@@ -171,7 +166,7 @@ Deepfake detection platform leveraging Computer Vision and AI models for media a
 
 <td width="50%">
 
-### 🧾 BillFlow AI
+### BillFlow AI
 Smart GST billing and business management solution designed for modern enterprises.
 
 **Tech Stack:** React • Node.js • Express • MongoDB
@@ -183,7 +178,7 @@ Smart GST billing and business management solution designed for modern enterpris
 <tr>
 <td colspan="2">
 
-### 🚨 RescueMind
+###  RescueMind
 AI-powered emergency response platform providing intelligent assistance during disaster situations.
 
 **Tech Stack:** AI • GIS • React • Python
@@ -195,5 +190,5 @@ AI-powered emergency response platform providing intelligent assistance during d
 <hr>
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
